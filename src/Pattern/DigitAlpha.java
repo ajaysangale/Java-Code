@@ -2,10 +2,6 @@ package Pattern;
 /*
 1
 B C
-4 5 6
-G H I J
-11 12 13 14 15
- */
 
 public class DigitAlpha {
     public static void main(String[] args) {
